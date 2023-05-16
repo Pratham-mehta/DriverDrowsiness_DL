@@ -55,3 +55,25 @@ The maximum testing accuracy achieved on the YawDD dataset was 97.06%, and the m
 
 ![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/52c6c9ec-f81a-491f-974e-d2e65dc4db7a)
 
+
+
+# List of Dependencies
+
+1. requests
+2. IPython
+3. numpy
+4. pandas
+5. os
+6. cv2 (OpenCV)
+7. opendatasets
+8. matplotlib
+9. sklearn
+10. tensorflow
+11. keras
+12. tabulate
+13. playsound
+14. google.colab
+15. base64
+16. visualkeras
+
+Please make sure to install these dependencies before running the code to ensure that all the required packages are available.
