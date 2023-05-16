@@ -40,7 +40,7 @@ This code performs driver drowsiness detection using a deep learning model. Here
 In summary, this code combines yawning and non-yawning face images with open and closed eye images to create a dataset for driver drowsiness detection. It then trains a deep learning model on this dataset using data augmentation techniques.
 
 # Results
-![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/0569740f-dca2-494a-aa9c-0994f889d419)
+![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/3f7b1d74-6b57-4d85-bb1a-afe28dd9645d)
 
 The proposed driver drowsiness detection system was trained and evaluated on two datasets: YawDD and CEW.
 The maximum testing accuracy achieved on the YawDD dataset was 97.06%, and the maximum training accuracy achieved was 97.62%. The minimum training loss was
@@ -49,9 +49,9 @@ The maximum testing accuracy achieved on the YawDD dataset was 97.06%, and the m
 # Conclusion
 1. Accuracy ( Training vs Testing) Plot
 
-![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/a36462e4-adb8-467e-85c1-2e2b61e981e1)
+![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/0646f298-be28-48a5-8120-39980e461b5d)
 
 2. Loss ( Training vs Testing) Plot
 
-![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/a2e5fccc-961b-4fdb-9c2e-5928fb857ff4)
+![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/52c6c9ec-f81a-491f-974e-d2e65dc4db7a)
 
