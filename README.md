@@ -20,4 +20,13 @@ The second dataset used is the Closed Eyes in the Wild (CEW) dataset. This datas
 
 # Results
 ![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/2818f937-2739-45d2-9dd9-10b0adfd0a4c)
+
 The proposed driver drowsiness detection system was trained and evaluated on two datasets: YawDD and CEW. The maximum testing accuracy achieved on the YawDD dataset was 97.06%, and the maximum training accuracy achieved was 96.73%. The minimum training loss was 0.0785, and the minimum testing loss was 0.0923.
+
+# Conclusion
+1. Accuracy ( Training vs Testing) Plot
+![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/814c46e1-fc8f-4919-86a9-dd2062aa180a)
+
+2. Loss ( Training vs Testing) Plot
+![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/e3c0ad96-d8f4-41c9-a054-d0bb8ada5523)
+
