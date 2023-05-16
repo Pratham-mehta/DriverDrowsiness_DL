@@ -12,3 +12,8 @@ Drowsiness is identified by using vision-based techniques like eyes detection, y
 ●TensorFlow: Tensorflow is a free and open-source library, developed by the Google Brain team for machine learning and artificial intelligence. Tensorflow has a particular focus on the training and inference of deep neural networks.
 
 ●Keras: Keras is an open-source software library and it provides a Python interface for artificial neural networks. Keras is more user-friendly because it is an inbuilt python library.
+
+# Datasets
+
+The first dataset used is the YawDD Video dataset, which contains videos recorded by a camera mounted on a car dashboard. The dataset consists of male and female drivers with some wearing glasses and others without. 
+The second dataset used is the Closed Eyes in the Wild (CEW) dataset. This dataset contains 2423 subjects, with 1192 people having closed eyes and 1231 people with open eyes. Images of open eyes were taken from the Labeled Face in the Wild dataset.
