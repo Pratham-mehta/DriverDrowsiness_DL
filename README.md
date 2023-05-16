@@ -25,8 +25,10 @@ The proposed driver drowsiness detection system was trained and evaluated on two
 
 # Conclusion
 1. Accuracy ( Training vs Testing) Plot
+
 ![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/814c46e1-fc8f-4919-86a9-dd2062aa180a)
 
 2. Loss ( Training vs Testing) Plot
+
 ![image](https://github.com/Stan-Batman/DriverDrowsiness_DL/assets/31034647/e3c0ad96-d8f4-41c9-a054-d0bb8ada5523)
 
